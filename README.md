@@ -8,7 +8,9 @@ Pasos para ejecutar proyecto:
 4.
 5
 6
+git
 
+afasds
 
 ## Producción
 
