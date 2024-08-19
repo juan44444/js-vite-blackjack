@@ -7,10 +7,7 @@ Pasos para ejecutar proyecto:
 3. Correr el devServer ```npm run dev```
 4.
 5
-6
-git
 
-afasds
 
 ## Producción
 
